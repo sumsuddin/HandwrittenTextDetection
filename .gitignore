@@ -1,0 +1,4 @@
+data/sets/
+models/word-clas/
+__pycache__
+.ipynb_checkpoints
